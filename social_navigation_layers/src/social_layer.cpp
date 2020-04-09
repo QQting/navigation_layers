@@ -3,6 +3,7 @@
 #include <math.h>
 #include <angles/angles.h>
 #include <geometry_msgs/PointStamped.h>
+#include <tf2_geometry_msgs/tf2_geometry_msgs.h>
 #include <pluginlib/class_list_macros.h>
 #include <algorithm>
 #include <string>
